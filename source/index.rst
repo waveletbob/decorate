@@ -8,7 +8,7 @@
 
 
 .. toctree::
-   :caption: 水电篇
+   :caption: Contents
    :maxdepth: 2
 
    水电篇/index.md
