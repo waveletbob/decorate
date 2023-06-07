@@ -8,8 +8,10 @@
 
 
 .. toctree::
+   :numbered:
+   :titlesonly:
    :caption: Contents
-   :maxdepth: 2
+   :maxdepth: 1
 
    水电篇/index.md
    家具篇/index.md
