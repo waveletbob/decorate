@@ -11,9 +11,11 @@
    :caption: 水电篇
    :maxdepth: 2
 
-
-   水电篇.md
-
+   水电篇/index.md
+   家具篇/index.md
+   家电篇/index.md
+   家纺篇/index.md
+   墙漆篇/index.md
 
 Indices and tables
 ==================
